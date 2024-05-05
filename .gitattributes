@@ -5,3 +5,5 @@ new_large_file3.txt filter=lfs diff=lfs merge=lfs -text
 test-zip-elf.zip filter=lfs diff=lfs merge=lfs -text
 MyNewfile.zip filter=lfs diff=lfs merge=lfs -text
 MyNewfile3.zip filter=lfs diff=lfs merge=lfs -text
+new_large_file3.zip filter=lfs diff=lfs merge=lfs -text
+output.zip filter=lfs diff=lfs merge=lfs -text
